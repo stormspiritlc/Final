@@ -1,5 +1,6 @@
-# Welcome to Docsify Page!
+# OpensourceDotComDemos
+Sample example projects referenced for opensource.com articles
 
-This site was created using [**Docsify**](https://docsify.js.org), which is an open source documentation site generator, and imported in GitHub page. This site was created for [**Opensource.com**](https://opensource.com) demo.
+This repository contains the sample source codes referenced through my Opensource.com articles. Feel free to download and use them.
 
-![Welcome to Opensource.com](./images/cover.jpg)
+
