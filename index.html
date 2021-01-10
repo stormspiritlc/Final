@@ -7,6 +7,12 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <style>
+    :root {
+      --docsifytabs-border-color: #ededed;
+      --docsifytabs-tab-highlight-color: purple;
+    }
+  </style>
 </head>
 <body>
   <div data-app id="app">Please wait...</div>
@@ -16,6 +22,13 @@
       repo: 'https://github.com/stormspiritlc/Final.git',
       loadSidebar: true,
       autoHeader: true,
+      tabs: {
+        persist    : true,      // default
+        sync       : true,      // default
+        theme      : 'classic', // default
+        tabComments: true,      // default
+        tabHeadings: true       // default
+      }
     }
   </script>
   <!-- Docsify v4 -->
