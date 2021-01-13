@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 
-* [HOME](./gettingstarted/index)
+* [HOME](./index)
 
 * [Getting Started](./gettingstarted/index)
   * [Try React](./gettingstarted/tryreact/index)

@@ -9,3 +9,19 @@
 - [Staying Informed](./gettingstarted/stayinginformed/index)
 - [Versioned Documentation](./gettingstarted/versioneddocumentation/index)
 - [Something Missing?](./gettingstarted/somethingmissing/index)
+
+<!-- tabs:start -->
+
+#### ** English **
+
+Hello!
+
+#### ** French **
+
+Bonjour!s
+
+#### ** Italian **
+
+Ciao!
+
+<!-- tabs:end -->
